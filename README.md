@@ -14,6 +14,9 @@ Prepared by: Eldion Vincent H. Bartolo
 # Install Seaborn
 !pip install seaborn
 ```
+
+[Seaborn_Notebook](Seaborn Tutorials.ipynb)
+
 ![png](images/Seaborn_Sample.PNG)
 
 ## Pandas
