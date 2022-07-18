@@ -15,7 +15,7 @@ Prepared by: Eldion Vincent H. Bartolo
 !pip install seaborn
 ```
 
-[Seaborn_Notebook](Seaborn Tutorials.ipynb)
+![Seaborn_Notebook](Seaborn Tutorials.ipynb)
 
 ![png](images/Seaborn_Sample.PNG)
 
