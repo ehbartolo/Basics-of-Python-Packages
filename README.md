@@ -14,7 +14,7 @@ Prepared by: Eldion Vincent H. Bartolo
 # Install Seaborn
 !pip install seaborn
 ```
-![png](images/Seaborn_Sample.png)
+![png](images/Seaborn_Sample.PNG)
 
 ## Pandas
 
