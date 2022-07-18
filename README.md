@@ -5,7 +5,9 @@ Prepared by: Eldion Vincent H. Bartolo
 ## :books: Table of Contents
 
 * [Seaborn](#Seaborn)
+* [Pandas](#Pandas)
 * [SkLearn](#SkLearn)
+* [SkLearn](#Scipy)
 
 ## Seaborn
 ```python
@@ -14,7 +16,11 @@ Prepared by: Eldion Vincent H. Bartolo
 ```
 ![png](output_8_0.png)
 
+## Pandas
 
+## SkLearn
+
+## Scipy
 
 <details>
   <summary>Version of Packages Used</summary>
