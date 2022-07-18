@@ -15,14 +15,6 @@ Prepared by: Eldion Vincent H. Bartolo
 ![png](output_8_0.png)
 
 
-## :computer: Section 1
-
-## :books: Section 2
-
-
-## :key: Section 3
-
-# :mag_right: Section 3
 
 <details>
   <summary>Version of Packages Used</summary>
@@ -32,4 +24,17 @@ Prepared by: Eldion Vincent H. Bartolo
 | Version  | 1 | 2 | 3 | 4 | 5     | 
 
 </details>
+
+
+
+## To Do
+## :computer: Section 1
+
+## :books: Section 2
+
+## :key: Section 3
+
+## :mag_right: Section 3
+
+
 
