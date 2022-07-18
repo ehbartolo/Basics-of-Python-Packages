@@ -7,14 +7,14 @@ Prepared by: Eldion Vincent H. Bartolo
 * [Seaborn](#Seaborn)
 * [Pandas](#Pandas)
 * [SkLearn](#SkLearn)
-* [Scipy](#Scipy)
+* [Optimization Packages](#Optimization-Packages)
 
 ## Seaborn
 ```python
 # Install Seaborn
 !pip install seaborn
 ```
-![png](images/seaborn_sample.png)
+![png](images/Seaborn_sample.png)
 
 ## Pandas
 
