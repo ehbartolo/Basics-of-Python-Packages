@@ -1,8 +1,8 @@
-## Basics of Python Packages
+# Basics of Python Packages
 
 Prepared by: Eldion Vincent H. Bartolo
 
-### Table of Contents
+## :books: Table of Contents
 
 * [Seaborn](#Seaborn)
 * [SkLearn](#SkLearn)
