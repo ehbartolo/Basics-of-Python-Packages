@@ -23,7 +23,7 @@ Prepared by: Eldion Vincent H. Bartolo
 
 ## SkLearn
 
-## Scipy
+## Optimization Packages
 
 <details>
   <summary>Version of Packages Used</summary>
