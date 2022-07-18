@@ -1,12 +1,15 @@
-## Exploration of Seaborn Package
+## Basics of Python Packages
+
+Prepared by: Eldion Vincent H. Bartolo
 
 ### Table of Contents
 
-* [Importing Libraries](#Importing-Libraries)
-* [Loading Datasets](#Loading-Datasets)
+* [Seaborn](#Seaborn)
+* [SkLearn](#SkLearn)
 
+### Seaborn
 ```python
-## Install Seaborn
-#!pip install seaborn
+# Install Seaborn
+!pip install seaborn
 ```
 ![png](output_8_0.png)
