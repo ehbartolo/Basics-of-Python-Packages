@@ -46,15 +46,11 @@ Quickstart: `python train.py --root_dir <path/to/lego> --exp_name Lego`
 
 
 <details>
-  <summary>Synthetic-NeRF</summary>
+  <summary>Version of Packages Used</summary>
 
-|       | Mic   | Ficus | Chair | Hotdog | Materials | Drums | Ship  | Lego  | AVG   |
-| :---: | :---: | :---: | :---: | :---:  | :---:     | :---: | :---: | :---: | :---: |
-| PSNR  | 35.59 | 34.13 | 35.28 | 37.35  | 29.46     | 25.81 | 30.32 | 35.76 | 32.96 |
-| SSIM  | 0.988 | 0.982 | 0.984 | 0.980  | 0.944     | 0.933 | 0.890 | 0.979 | 0.960 |
-| LPIPS | 0.017 | 0.024 | 0.025 | 0.038  | 0.070     | 0.076 | 0.133 | 0.022 | 0.051 |
-| FPS   | 40.81 | 34.02 | 49.80 | 25.06  | 20.08     | 37.77 | 15.77 | 36.20 | 32.44 |
-| Training time | 3m9s | 3m12s | 4m17s | 5m53s | 4m55s | 4m7s | 9m20s | 5m5s | 5m00s |
+|       | Python  | Seaborn | Pandas | SkLearn | Scipy |
+| :---: | :---: | :---: | :---: | :---:  | :---:  |
+| Version  | 1 | 2 | 3 | 4 | 5     | 
 
 </details>
 
